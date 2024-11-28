@@ -7,9 +7,9 @@ def sortu_eta_ordenatu_zerrenda():
     zerrenda.sort()
     return zerrenda
 
-# Programa exekutatu
+
 print("Sortu eta ordenatu zerrenda:")
 hitz_zerrenda = sortu_eta_ordenatu_zerrenda()
 
-# Emaitzak erakutsi
+
 print("Zerrenda alfabetikoki ordenatuta:", hitz_zerrenda)
