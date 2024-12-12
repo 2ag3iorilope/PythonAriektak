@@ -31,6 +31,6 @@ try:
     boligrafo.Idatzi("Testuaa. ", papel)
     boligrafo.Idatzi("Testu gehiagooo.", papel)
     print(papel)  
-    print("Tinta restante:", boligrafo.Tinta_Kop)
+    print("Geratzen den tinta:", boligrafo.Tinta_Kop)
 except TintaAmaitutaException as e:
     print(e)
