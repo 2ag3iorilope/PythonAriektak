@@ -50,4 +50,4 @@ soldado.atacar(personaje)
 print("Bizitza geratzen da:", personaje.Bizitza) 
 
 soldado.mover("arriba")
-print("Posizioa mugi ondoren:", soldado.posizioa)  # El Soldado se mueve hacia arriba
+print("Posizioa mugi ondoren:", soldado.posizioa)  
